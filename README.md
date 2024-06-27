@@ -104,10 +104,6 @@ Welcome to the Movie Recommendation System project! This project demonstrates th
 
 <p>Contributions are welcome! If you have any improvements or suggestions, please fork the repository and create a pull request.</p>
 
-## License
-
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
-
 ## Acknowledgments
 
 <ul>
