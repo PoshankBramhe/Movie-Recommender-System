@@ -114,7 +114,3 @@ Welcome to the Movie Recommendation System project! This project demonstrates th
     <li>The Movie Database (TMDb) for providing the dataset.</li>
     <li>The creators of the tmdb-5000-movies dataset.</li>
 </ul>
-
-## Contact
-
-<p>For any questions or feedback, feel free to contact me at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
